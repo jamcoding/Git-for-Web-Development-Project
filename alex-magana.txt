@@ -9,7 +9,7 @@ Stretch Review questions:
     When positioned absolutely, the element is positioned off of the document flow. With elements positioned absolutely, you can add offsetting spacing to the top, right, bottom and left side of the element.
 
 3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
-    Have the padding set to auto. 
+    Have the padding set to auto.
 
 4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default 
     3 elements that displays block by default:
