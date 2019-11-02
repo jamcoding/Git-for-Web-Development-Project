@@ -1,0 +1,29 @@
+This is a test
+
+Stretch Review questions: 
+1. What is the difference between an inline element and a block element? 
+    An inline element is an element that wil stay in the same line along with other elements. 
+    A block element is an element that will begin on a new line.
+
+2. What happens when an element is positioned absolutely? 
+    When positioned absolutely, the element is positioned off of the document flow. With elements positioned absolutely, you can add offsetting spacing to the top, right, bottom and left side of the element.
+
+3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
+    Have the padding set to auto.
+
+4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default 
+    3 elements that displays block by default:
+        1. <p>
+        2. <h1>
+        3. <div>
+    
+    2 element that displays inline by default:
+        1. <span>
+        2. <strong>
+
+    1 element that displays inline-block by default:
+        1. <nav>
+
+5. In your own words, explain the box model. What is the fix for the box model?
+    Box model is the area that wraps around each HTML element in a page. Around each element there is the content, padding, border and margin.
+    The fix for the box model is the CSS Reset. CSS Reset will allow you to reset all CSS and add all custom CSS to all elements.
